@@ -1,0 +1,14 @@
+org\cloris\houses\common\model\UserToHouse.class
+org\cloris\houses\common\utils\HashUtils.class
+org\cloris\houses\common\page\PageParams.class
+org\cloris\houses\common\model\Community.class
+org\cloris\houses\common\constants\CommonConstants.class
+org\cloris\houses\common\model\UserMsg.class
+org\cloris\houses\common\page\PageData.class
+org\cloris\houses\common\utils\BeanHelper.class
+org\cloris\houses\common\constants\UserToHouseType.class
+org\cloris\houses\common\model\City.class
+org\cloris\houses\common\model\House.class
+org\cloris\houses\common\page\Pagination.class
+org\cloris\houses\common\result\ResultMsg.class
+org\cloris\houses\common\model\User.class

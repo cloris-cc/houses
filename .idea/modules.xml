@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/houses.iml" filepath="$PROJECT_DIR$/houses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/houses-biz/houses-biz.iml" filepath="$PROJECT_DIR$/houses-biz/houses-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/houses-common/houses-common.iml" filepath="$PROJECT_DIR$/houses-common/houses-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/houses-web/houses-web.iml" filepath="$PROJECT_DIR$/houses-web/houses-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-admin/spring-admin.iml" filepath="$PROJECT_DIR$/spring-admin/spring-admin.iml" />
+    </modules>
+  </component>
+</project>

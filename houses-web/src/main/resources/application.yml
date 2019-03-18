@@ -1,0 +1,58 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/houses
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.jdbc.Driver
+    druid:
+      filter:
+        stat:
+          slow-sql-millis: 5000
+          log-slow-sql: true
+          merge-sql: true
+      stat-view-servlet:
+        url-pattern: /druid/*
+      min-idle: 5
+      max-active: 30
+  freemarker:
+    expose-request-attributes: true
+    expose-session-attributes: true
+    settings:
+      datetime_format: yyyy-MM-dd HH:mm:ss
+      auto_import: common/common.ftl as common
+      default_encoding: UTF-8
+    suffix: .ftl
+    charset: UTF-8
+    content-type: text/html;charset=UTF-8
+    allow-session-override: true
+    allow-request-override: true
+  mail:
+    username: 1390174365@qq.com
+    host: smtp.qq.com
+    password: oyemkayjalqwfica
+    port: 587 #465
+    test-connection: true
+  boot:
+    admin:
+      client:
+        url: http://localhost:8070 # 监控平台的地址
+  redis:
+    password: 123456
+
+mybatis:
+  config-location: classpath:mybatis/mybatis-config.xml
+#file.path: C:/Users/cloris/Desktop/housev1.0/house-web/src/main/resources/static/static/imgs
+local.image: C:/all/dev_workspace/idea-project/houses/houses-web/src/main/resources/static/static/imgs
+file.path: /static/imgs
+domain.name: localhost:${server.port}
+logging:
+  level:
+    org.cloris.houses.biz.mapper: debug
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

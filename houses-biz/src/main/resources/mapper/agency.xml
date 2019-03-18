@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="org.cloris.houses.biz.mapper.AgencyMapper">
+
+    <sql id="agencyField">
+        id,
+        name,
+        address,
+        phone,
+        email,
+        about_us,
+        mobile,
+        web_site
+    </sql>
+
+
+    <select id="selectAgent" resultType="user">
+        select * from user
+        <where>
+            enable = 1 and type = 2
+            <if test="user.id != null and user.id !=0">
+              and id = #{user.id}
+            </if>
+            <if test="user.name != null and user.name !=''">
+              and email = #{user.email}
+            </if>
+        </where>
+        order by id desc
+        <if test="pageParams.offset != null and pageParams.limit != null">
+            limit #{pageParams.offset}, #{pageParams.limit}
+        </if>
+        <if test="pageParams.offset == null and pageParams.limit != null">
+            limit #{pageParams.offset}, #{pageParams.limit}
+        </if>
+    </select>
+
+    <select id="selectAgentCount" resultType="java.lang.Long">
+        select count(id) from user
+        <where>
+            enable = 1 and type = 2
+            <if test="user.id != null and user.id != 0">
+                and id = #{user.id}
+            </if>
+            <if test="user.name != null and user.name != ''">
+                and email = #{user.email}
+            </if>
+        </where>
+    </select>
+</mapper>

@@ -1,0 +1,11 @@
+org\cloris\houses\biz\service\FileService.class
+org\cloris\houses\biz\service\CityService.class
+org\cloris\houses\biz\mapper\UserMapper.class
+org\cloris\houses\biz\service\AgencyService.class
+org\cloris\houses\biz\service\UserService.class
+org\cloris\houses\biz\service\MailService.class
+org\cloris\houses\biz\service\RecommendService.class
+org\cloris\houses\biz\mapper\AgencyMapper.class
+org\cloris\houses\biz\service\MailService$1.class
+org\cloris\houses\biz\service\HousesService.class
+org\cloris\houses\biz\mapper\HouseMapper.class

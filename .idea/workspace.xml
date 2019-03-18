@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2726008d-dcf8-48ef-be69-75b057df4925" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/houses-biz/target/" />
+    <ignored path="$PROJECT_DIR$/houses-common/target/" />
+    <ignored path="$PROJECT_DIR$/houses-web/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-admin/target/" />
+    <ignored path="$PROJECT_DIR$/spring-admin/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="491329714">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="49" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="6" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="4" />
+          <entry key="project.open.time.17" value="3" />
+          <entry key="project.open.time.18" value="4" />
+          <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="6" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.opened" value="62" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="class" value="45" />
+          <entry key="dtd" value="1" />
+          <entry key="factories" value="2" />
+          <entry key="ftl" value="47" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="3" />
+          <entry key="iml" value="9" />
+          <entry key="java" value="361" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="3" />
+          <entry key="pom" value="13" />
+          <entry key="properties" value="1" />
+          <entry key="provides" value="1" />
+          <entry key="sql" value="3" />
+          <entry key="tld" value="1" />
+          <entry key="xml" value="152" />
+          <entry key="xsd" value="1" />
+          <entry key="yml" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="45" />
+          <entry key="DTD" value="1" />
+          <entry key="FTL" value="47" />
+          <entry key="HTML" value="3" />
+          <entry key="IDEA_MODULE" value="9" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="361" />
+          <entry key="JavaScript" value="3" />
+          <entry key="Manifest" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="1" />
+          <entry key="SQL" value="1" />
+          <entry key="Scratch" value="2" />
+          <entry key="XML" value="167" />
+          <entry key="YAML" value="52" />
+          <entry key="spring.factories" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="ft" value="35" />
+          <entry key="ftl" value="9" />
+          <entry key="html" value="55" />
+          <entry key="java" value="21704" />
+          <entry key="properties" value="15" />
+          <entry key="xml" value="4487" />
+          <entry key="yml" value="1141" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="FTL" value="9" />
+          <entry key="HTML" value="55" />
+          <entry key="JAVA" value="21704" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Properties" value="15" />
+          <entry key="SQL" value="220" />
+          <entry key="VTL" value="35" />
+          <entry key="XML" value="4267" />
+          <entry key="YAML" value="1141" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages">
+        <counts>
+          <entry key="RestClientRequestRunnerNavigator.fromToolWindow" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="houses" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/controller/UserHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2059">
+              <caret line="83" column="29" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/interceptor/AuthInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/RecommendService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="48" column="89" selection-start-line="48" selection-start-column="89" selection-end-line="48" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/interceptor/UserContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/autoconfigure/HttpClientAutoConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/UserToHouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/UserMsg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1276">
+              <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="spring-beans.schema" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>thymeleaf</find>
+      <find>filter</find>
+      <find>mysql</find>
+      <find>freema</find>
+      <find>freemarker</find>
+      <find>configuration-processor</find>
+      <find>lombok</find>
+      <find>httpclient</find>
+      <find>HttpClient</find>
+      <find>guava</find>
+      <find>avat</find>
+      <find>agency</find>
+      <find>signin</find>
+      <find>target</find>
+      <find>hello</find>
+      <find>pa</find>
+      <find>联系经纪人</find>
+      <find>新上</find>
+      <find>热门</find>
+      <find>delete</find>
+      <find>code</find>
+      <find>red</find>
+      <find>condition</find>
+      <find>update</find>
+      <find>http</find>
+      <find>redis</find>
+      <find>新上房源</find>
+      <find>Session</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/User.java" />
+        <option value="$PROJECT_DIR$/houses-web/src/test/java/org/cloris/houses/web/HousesApplicationTests.java" />
+        <option value="$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/Community.java" />
+        <option value="$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/page/Pagination.java" />
+        <option value="$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/page/PageData.java" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/MailService.java" />
+        <option value="$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/UserMsg.java" />
+        <option value="$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/mapper/AgencyMapper.java" />
+        <option value="$PROJECT_DIR$/houses-biz/src/main/resources/mapper/agency.xml" />
+        <option value="$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/AgencyService.java" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/controller/AgencyController.java" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/resources/templates/user/agent/agentDetail.ftl" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/resources/templates/common/common.ftl" />
+        <option value="$PROJECT_DIR$/houses-biz/pom.xml" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/resources/templates/house/listing.ftl" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/resources/templates/house/detail.ftl" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/resources/templates/homepage/index.ftl" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/controller/HomePageController.java" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/controller/HomepageController.java" />
+        <option value="$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/City.java" />
+        <option value="$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/CityService.java" />
+        <option value="$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/UserService.java" />
+        <option value="$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/constants/CommonConstants.java" />
+        <option value="$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/UserToHouse.java" />
+        <option value="$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/constants/UserToHouseType.java" />
+        <option value="$PROJECT_DIR$/houses-biz/src/main/resources/mybatis/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/mapper/HouseMapper.java" />
+        <option value="$PROJECT_DIR$/houses-biz/src/main/resources/mapper/house.xml" />
+        <option value="$PROJECT_DIR$/houses-common/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin/src/main/java/org.cloris.houses.admin/SpringBootAdminApplication.java" />
+        <option value="$PROJECT_DIR$/spring-boot-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin/src/main/java/org/cloris/houses/admin/AdminApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-admin/src/main/java/org/cloris/houses/admin/SpringAdminApplication.java" />
+        <option value="$PROJECT_DIR$/spring-admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/houses-biz/src/main/resources/mapper/user.xml" />
+        <option value="$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/page/PageParams.java" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/interceptor/UserContext.java" />
+        <option value="$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/House.java" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/controller/HousesController.java" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/filter/LogFilter.java" />
+        <option value="$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/FileService.java" />
+        <option value="$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/HousesService.java" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/autoconfigure/ConfigureInterceptors.java" />
+        <option value="$PROJECT_DIR$/houses-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/houses-web/pom.xml" />
+        <option value="$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/RecommendService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="houses" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="houses" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="houses-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="houses-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="jdk1.8" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="159" />
+    <option name="y" value="48" />
+    <option name="width" value="1936" />
+    <option name="height" value="1325" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>Resource managementJava</id>
+          </State>
+          <State>
+            <id>RoomAndroid</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <sortByType ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-biz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="biz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-biz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="biz" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="houses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="houses-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="houses" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="AbstractQueued&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedLongSynchronizer&#10;UserConte&#9;PSI&#9;JAVA://org.cloris.houses.web.interceptor.UserContext&#10;house.xml&#9;FILE&#9;file://C:/all/dev_workspace/idea-project/houses/houses-biz/src/main/resources/mapper/house.xml&#10;HouseContr&#9;FILE&#9;file://C:/all/dev_workspace/idea-project/houses/houses-web/src/main/java/org/cloris/houses/web/controller/HousesController.java&#10;File&#9;FILE&#9;file://C:/all/dev_workspace/idea-project/houses/houses-biz/src/main/java/org/cloris/houses/biz/service/FileService.java&#10;Commoncon&#9;FILE&#9;file://C:/all/dev_workspace/idea-project/houses/houses-common/src/main/java/org/cloris/houses/common/constants/CommonConstants.java&#10;UserContex&#9;FILE&#9;file://C:/all/dev_workspace/idea-project/houses/houses-web/src/main/java/org/cloris/houses/web/interceptor/UserContext.java&#10;WebMvcConfigurerAdapter&#9;FILE&#9;jar://C:/Users/cloris/.m2/repository/org/springframework/spring-webmvc/5.0.10.RELEASE/spring-webmvc-5.0.10.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerAdapter.class&#10;HandlerIn&#9;PSI&#9;JAVA://com.fasterxml.jackson.databind.cfg.HandlerInstantiator&#10;HandlerInterceptor&#9;FILE&#9;jar://C:/Users/cloris/.m2/repository/org/springframework/spring-webmvc/5.0.10.RELEASE/spring-webmvc-5.0.10.RELEASE.jar!/org/springframework/web/servlet/HandlerInterceptor.class&#10;asUrl&#9;PSI&#9;JAVA://org.cloris.houses.common.result.ResultMsg#asUrlParams&#10;Ru&#9;FILE&#9;jar://C:/all/dev_environment/Java/jdk1.8.0_162/src.zip!/java/lang/Runnable.java&#10;Run&#9;FILE&#9;jar://C:/all/dev_environment/Java/jdk1.8.0_162/src.zip!/java/lang/Runnable.java&#10;Threa&#9;PSI&#9;JAVA://java.lang.Thread&#10;RequestContext&#9;PSI&#9;JAVA://org.springframework.web.servlet.support.RequestContext&#10;HttpClient&#9;FILE&#9;jar://C:/Users/cloris/.m2/repository/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar!/org/apache/http/client/HttpClient.class&#10;ThreadL&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;format&#9;ACTION&#9;ReformatCode&#10;auto&#9;FILE&#9;jar://C:/Users/cloris/.m2/repository/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class&#10;autoc&#9;FILE&#9;jar://C:/Users/cloris/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.class&#10;Proper&#9;FILE&#9;jar://C:/Users/cloris/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/org/springframework/boot/autoconfigure/web/reactive/WebFluxProperties.class&#10;autoconfigu&#9;FILE&#9;jar://C:/Users/cloris/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.6.RELEASE/spring-boot-autoconfigure-2.0.6.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.class&#10;basic&#9;ACTION&#9;CodeCompletion&#10;Mybatisp&#9;FILE&#9;jar://C:/Users/cloris/.m2/repository/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2.jar!/org/mybatis/spring/boot/autoconfigure/MybatisProperties.class&#10;Mybatisauto&#9;PSI&#9;JAVA://org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration&#10;Mybatis&#9;PSI&#9;JAVA://org.mybatis.spring.boot.autoconfigure.MybatisProperties&#10;ReentrantL&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;ReadWrite&#9;FILE&#9;jar://C:/all/dev_environment/Java/jdk1.8.0_162/jre/lib/rt.jar!/java/util/concurrent/locks/ReadWriteLock.class&#10;Webmvcauto&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542207473282" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect" value="GenericSQL&#10;MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="jdk1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/houses-web" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2978959" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.cloris.houses.web" />
+      <recent name="org.cloris.houses" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\all\dev_workspace\idea-project\houses\houses-web\src\main\resources\templates\house" />
+      <recent name="C:\all\dev_workspace\idea-project\houses\houses-web\src\main\resources\templates\homepage" />
+      <recent name="C:\all\dev_workspace\idea-project\houses\houses-web\src\main\resources\templates\user" />
+      <recent name="C:\all\dev_workspace\idea-project\houses\houses-biz\src\main\resources\mapper" />
+      <recent name="C:\all\dev_workspace\idea-project\houses\houses-web\src\main\resources\templates\user\accounts" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.cloris.houses.web" />
+      <recent name="org.cloris.houses.common.model" />
+      <recent name="org.cloris.houses.common.domain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\all\dev_workspace\idea-project\houses\houses-web\src\main\resources\templates\user" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/actuator/metrics" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/vnd.spring-boot.actuator.v2+json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.15097402" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringAdminApplication">
+    <configuration name="All Features in: spring-boot-admin" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/spring-boot-admin" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="spring-boot-admin" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: spring-boot-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HousesApplicationTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="houses-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cloris.houses.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cloris.houses.web" />
+      <option name="MAIN_CLASS_NAME" value="org.cloris.houses.web.HousesApplicationTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HousesApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="houses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cloris.houses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cloris.houses" />
+      <option name="MAIN_CLASS_NAME" value="org.cloris.houses.HousesApplicationTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HousesApplicationTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="houses-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cloris.houses.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cloris.houses.web" />
+      <option name="MAIN_CLASS_NAME" value="org.cloris.houses.web.HousesApplicationTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HousesApplicationTests.testHttpClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="houses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cloris.houses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cloris.houses" />
+      <option name="MAIN_CLASS_NAME" value="org.cloris.houses.HousesApplicationTests" />
+      <option name="METHOD_NAME" value="testHttpClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HousesApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="houses-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cloris.houses.HousesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HousesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="houses" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cloris.HousesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HousesBizApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="houses-biz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cloris.houses.biz.HousesBizApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HousesCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="houses-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cloris.houses.common.HousesCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HousesWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="houses-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cloris.houses.web.HousesWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cloris.houses.admin.SpringAdminApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.HousesApplication" />
+      <item itemvalue="Spring Boot.HousesBizApplication" />
+      <item itemvalue="Spring Boot.HousesWebApplication" />
+      <item itemvalue="Spring Boot.HousesCommonApplication" />
+      <item itemvalue="Spring Boot.HousesApplication (2)" />
+      <item itemvalue="Spring Boot.SpringAdminApplication" />
+      <item itemvalue="Cucumber java.All Features in: spring-boot-admin" />
+      <item itemvalue="JUnit.HousesApplicationTests" />
+      <item itemvalue="JUnit.HousesApplicationTests.testHttpClient" />
+      <item itemvalue="JUnit.HousesApplicationTests (1)" />
+      <item itemvalue="JUnit.HousesApplicationTests.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.All Features in: spring-boot-admin" />
+        <item itemvalue="JUnit.HousesApplicationTests.test1" />
+        <item itemvalue="JUnit.HousesApplicationTests (1)" />
+        <item itemvalue="JUnit.HousesApplicationTests.testHttpClient" />
+        <item itemvalue="JUnit.HousesApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\cloris\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2726008d-dcf8-48ef-be69-75b057df4925" name="Default Changelist" comment="" />
+      <created>1540900311927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540900311927</updated>
+      <workItem from="1540900400150" duration="9783000" />
+      <workItem from="1540938001654" duration="5976000" />
+      <workItem from="1540947866426" duration="325000" />
+      <workItem from="1541030260190" duration="727000" />
+      <workItem from="1541076007670" duration="3504000" />
+      <workItem from="1541116569835" duration="4947000" />
+      <workItem from="1541235907322" duration="17000" />
+      <workItem from="1541294031816" duration="10984000" />
+      <workItem from="1541329934757" duration="14397000" />
+      <workItem from="1541353266985" duration="6691000" />
+      <workItem from="1541370329083" duration="25562000" />
+      <workItem from="1541541026991" duration="604000" />
+      <workItem from="1541552929209" duration="35873000" />
+      <workItem from="1541687217046" duration="515000" />
+      <workItem from="1541730851752" duration="17910000" />
+      <workItem from="1541824798635" duration="49430000" />
+      <workItem from="1542067740637" duration="17587000" />
+      <workItem from="1542154215345" duration="2677000" />
+      <workItem from="1542165419335" duration="2373000" />
+      <workItem from="1542199546364" duration="597000" />
+      <workItem from="1542200845460" duration="2208000" />
+      <workItem from="1542241537609" duration="6861000" />
+      <workItem from="1542331143306" duration="3693000" />
+      <workItem from="1542350848340" duration="115000" />
+      <workItem from="1542458213826" duration="1209000" />
+      <workItem from="1542503522340" duration="642000" />
+      <workItem from="1542504207028" duration="622000" />
+      <workItem from="1544578096610" duration="3864000" />
+      <workItem from="1544691236317" duration="2418000" />
+      <workItem from="1544749032578" duration="1853000" />
+      <workItem from="1544986473754" duration="4000" />
+      <workItem from="1544986609676" duration="45000" />
+      <workItem from="1545619780879" duration="4928000" />
+      <workItem from="1545726480811" duration="1943000" />
+      <workItem from="1545760643905" duration="17000" />
+      <workItem from="1545851158135" duration="111000" />
+      <workItem from="1545873690083" duration="59000" />
+      <workItem from="1545923324828" duration="48000" />
+      <workItem from="1546191971338" duration="3463000" />
+      <workItem from="1546823602036" duration="1249000" />
+      <workItem from="1547037719800" duration="1497000" />
+      <workItem from="1547092384391" duration="118000" />
+      <workItem from="1547343555178" duration="1394000" />
+      <workItem from="1547431760413" duration="1781000" />
+      <workItem from="1547496688016" duration="235000" />
+      <workItem from="1551409246114" duration="863000" />
+      <workItem from="1551757992059" duration="1250000" />
+      <workItem from="1551792268042" duration="599000" />
+      <workItem from="1551963593722" duration="1988000" />
+      <workItem from="1552033816498" duration="661000" />
+      <workItem from="1552047053332" duration="1685000" />
+      <workItem from="1552203684713" duration="7569000" />
+      <workItem from="1552277959895" duration="92000" />
+      <workItem from="1552367674259" duration="15044000" />
+      <workItem from="1552480670500" duration="10296000" />
+      <workItem from="1552542560501" duration="14686000" />
+      <workItem from="1552651807397" duration="1852000" />
+      <workItem from="1552715633506" duration="608000" />
+      <workItem from="1552812901144" duration="2008000" />
+      <workItem from="1552820200263" duration="622000" />
+      <workItem from="1552821364540" duration="2158000" />
+      <workItem from="1552903578016" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HousesApplicationTests - 2018.11.04 at 20h 30m 18s.xml">
+      <configuration name="HousesApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HousesApplicationTests_testHttpClient - 2018.11.04 at 20h 31m 31s.xml">
+      <configuration name="HousesApplicationTests.testHttpClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HousesApplicationTests_testHttpClient - 2018.11.04 at 20h 33m 21s.xml">
+      <configuration name="HousesApplicationTests.testHttpClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HousesApplicationTests_testHttpClient - 2018.11.04 at 20h 33m 49s.xml">
+      <configuration name="HousesApplicationTests.testHttpClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HousesApplicationTests_(1) - 2018.11.09 at 10h 43m 26s.xml">
+      <configuration name="HousesApplicationTests (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HousesApplicationTests_test1 - 2018.11.09 at 16h 11m 14s.xml">
+      <configuration name="HousesApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_Features_in__spring-boot-admin - 2018.11.13 at 15h 10m 38s.xml">
+      <configuration name="All Features in: spring-boot-admin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__spring-boot-admin - 2018.11.13 at 15h 23m 47s.xml">
+      <configuration name="All Features in: spring-boot-admin" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="313150000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="159" y="48" width="1936" height="1325" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6882068" visible="true" weight="0.27345416" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.31008583" side_tool="true" weight="0.28198293" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" sideWeight="0.31008583" side_tool="true" weight="0.28198293" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286219" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26678446" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295053" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3286432" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.25530034" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.2913518" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.32939914" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32773852" />
+      <window_info anchor="bottom" id="Problems" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2249467" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297491" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Structure" order="10" sideWeight="0.3117932" visible="true" weight="0.14285715" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/AgencyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/controller/AgencyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/resources/templates/error/404.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/filter/FilterBeanConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-biz/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/controller/ErrorHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/autoconfigure/HttpClientProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/result/ResultMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="51" column="11" lean-forward="true" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../dev_environment/Java/jdk1.8.0_162/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="198" column="16" selection-start-line="198" selection-start-column="16" selection-end-line="198" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/page/PageParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/constants/CommonConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/HousesApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/CityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/resources/static/static/imgs/1499002749/user-02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/constants/UserToHouseType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/utils/BeanHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2581">
+          <caret line="94" column="96" selection-start-line="94" selection-start-column="96" selection-end-line="94" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/resources/templates/house/add.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4176">
+          <caret line="144" column="139" selection-start-line="144" selection-start-column="122" selection-end-line="144" selection-end-column="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../dev_environment/Java/jdk1.8.0_162/src.zip!/java/time/Instant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15341">
+          <caret line="628" column="34" selection-start-line="628" selection-start-column="34" selection-end-line="628" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/mapper/HouseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-biz/src/main/resources/mapper/house.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3335">
+          <caret line="115" column="4" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/builder/xml/mybatis-3-mapper.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5626">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE.jar!/org/springframework/web/multipart/MultipartFile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../dev_environment/Java/jdk1.8.0_162/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="1342" column="22" selection-start-line="1342" selection-start-column="22" selection-end-line="1342" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE.jar!/org/springframework/util/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="359" column="32" selection-start-line="359" selection-start-column="32" selection-end-line="359" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/filter/LogFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/FileService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="40" column="130" selection-start-line="40" selection-start-column="130" selection-end-line="40" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/resources/templates/homepage/index.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="111" column="64" selection-start-line="111" selection-start-column="64" selection-end-line="111" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/HousesService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="142" column="48" lean-forward="true" selection-start-line="142" selection-start-column="48" selection-end-line="142" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/controller/HousesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="964">
+          <caret line="186" column="22" lean-forward="true" selection-start-line="186" selection-start-column="22" selection-end-line="186" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/controller/HomepageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/autoconfigure/ConfigureInterceptors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-admin/src/main/java/org/cloris/houses/admin/SpringAdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1769">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1827">
+          <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/MailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/controller/UserHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2059">
+          <caret line="83" column="29" selection-start-line="83" selection-start-column="29" selection-end-line="83" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/interceptor/AuthInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/interceptor/UserContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-web/src/main/java/org/cloris/houses/web/autoconfigure/HttpClientAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/UserToHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-common/src/main/java/org/cloris/houses/common/model/UserMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/houses-biz/src/main/java/org/cloris/houses/biz/service/RecommendService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="48" column="89" selection-start-line="48" selection-start-column="89" selection-end-line="48" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring-boot-admin:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2978959" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2978959" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2978959" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>jdk1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2978959" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>houses-common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2978959" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>jdk1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2978959" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
