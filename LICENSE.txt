@@ -1,0 +1,3 @@
+Copyright (c) 2019 Jacky of TeamWang
+
+This is a open source project.It provides people the thought to create a Estate Sale Platform.And it's used for non-commercial development.
